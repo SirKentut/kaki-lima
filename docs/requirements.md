@@ -17,5 +17,9 @@
 - **Users can customize orders (e.g., add notes for special instructions).**
 - **Users can invite friends to the platform and earn referral rewards.**
 - **Users can request refunds or report issues with orders through the app.**
+- **Users can sort and filter search by relevance**
+- **Users can search by location.**
+
+
 
 ## Non-Functional Requirements
