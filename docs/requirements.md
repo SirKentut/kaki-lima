@@ -19,6 +19,20 @@
 - **Users can request refunds or report issues with orders through the app.**
 - **Users can sort and filter search by relevance**
 - **Users can search by location.**
+- **Users can chat with Home Cooks.**
+
+- **Home Cooks can add/update/delete menus.**
+- **Home Cooks can have multiple restaurants.**
+- **Home Cooks can set their location(s).**
+- **Home Cooks can alter open times.**
+- **Home Cooks can alter availability.**
+- **Home Cooks can see a daily/weekly/annual report of transactions.**
+- **Home Cooks can see which items do favorable**
+- **Home Cooks can see how they rank compared to other home cooks.**
+- **Home Cooks can request for mentor help.**
+- **Home Cooks can chat with users.**
+- **Home Cooks can post images/videos.**
+- **Home Cooks can create polls.**
 
 
 
