@@ -37,3 +37,22 @@
 
 
 ## Non-Functional Requirements
+- **Performance:** The platform should load all main pages within 3 seconds under normal network conditions to ensure a smooth user experience.
+
+- **Scalability:** The system must support up to 100,000 concurrent users without performance degradation to accommodate future growth.
+
+- **Security:** All user data, including personal information and payment details, must be encrypted using industry-standard encryption methods (e.g., AES-256).
+
+- **Availability:** The platform should have an uptime of 99.9% to ensure that services are reliably available to users at all times.
+
+- **Usability:** The user interface should be intuitive and easy to navigate, with a goal of users completing the onboarding process within 5 minutes without external help.
+
+- **Compliance:** The platform must comply with relevant food safety regulations and data privacy laws, including GDPR and CCPA, to protect user rights and information.
+
+- **Maintainability:** The system should be designed with modular architecture to allow updates and maintenance to be performed with minimal disruption to the service.
+
+- **Reliability:** The notification system must deliver at least 99% of notifications on time, ensuring users are kept informed about order statuses.
+
+- **Accessibility:** The platform should meet WCAG 2.1 Level AA standards to ensure it is accessible to users with disabilities, including those using screen readers.
+
+- **Supportability:** The system should include logging and monitoring capabilities to enable easy troubleshooting and ensure efficient support operations for users and home chefs.
