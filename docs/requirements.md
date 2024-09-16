@@ -73,6 +73,8 @@
 
 ### Data Backup and Recovery:
 - The platform must perform daily backups of all critical data and have a recovery time objective (RTO) of less than 1 hour in the event of data loss or corruption.
+- User and home cook chat data must be stored locally to enhance privacy and reduce dependency on external storage services.
+
 
 ### Cross-Platform Compatibility:
 - The platform should be compatible with all major browsers (Chrome, Firefox, Safari, Edge) and support both iOS and Android devices for mobile users.
