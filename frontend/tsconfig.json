@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
+    "baseUrl": "src", // Set baseUrl to "src" instead of "."
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["*"] // Map @/* to the src directory
     },
     "target": "es5",
     "lib": [
