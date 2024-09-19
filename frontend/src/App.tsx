@@ -7,6 +7,7 @@ import HomeCooksPage from './pages/HomeCooksPage'
 function App() {
   return (
     <Router>
+      <div>Welcome to the main page</div>
       <div className="App">
         <Routes>
         <Route path="/homecooks" element={<HomeCooksPage />} />
