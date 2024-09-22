@@ -5,7 +5,7 @@ import { Calendar } from 'components/ui/calendar';
 const NewUserPage:React.FC=()=>{
 return(
     <div>
-        <h1>Welcome to the New User Page</h1>
+        <h1>Welcome to Kaki Lima</h1>
         <ShuffleHero/>
         <Calendar/>
     </div>

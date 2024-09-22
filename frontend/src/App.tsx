@@ -38,12 +38,12 @@ function App() {
             </NavigationMenuItem>
           </NavigationMenuList>
         </NavigationMenu>
+        
       <div className="App">
         {/* Routes */}
         <Routes>
           <Route path="/homecooks" element={<HomeCooksPage />} />
-          <Route path="/users" element={<NewUserPage/>} />
-          <Route path="/" element={<h1 className="text-3xl font-bold underline">Welcome to the Kaki Lima App!</h1>} />
+          <Route path="/" element={<NewUserPage/>} />
         </Routes>
       </div>
     </Router>
