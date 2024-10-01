@@ -13,5 +13,8 @@ graph TD
     A --> F[See Licenses & Certifications]
     F --> F1[View Existing Licenses]
     F --> F2[Update Certifications]
+    A --> G[Post Content]
+    G --> G1[Update/Delete Content]
+    G --> G2[View Content/Comments]
 
 ```
