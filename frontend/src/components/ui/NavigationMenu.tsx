@@ -193,6 +193,5 @@ export {
   NavigationMenuLink,
   NavigationMenuIndicator,
   NavigationMenuViewport,
-  NavigationMenuDemo,
   ListItem
 }
