@@ -194,4 +194,5 @@ export {
   NavigationMenuIndicator,
   NavigationMenuViewport,
   NavigationMenuDemo,
+  ListItem
 }
