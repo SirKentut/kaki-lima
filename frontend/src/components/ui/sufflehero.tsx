@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
+import { Link } from "react-router-dom";
 
 const ShuffleHero = () => {
   return (
@@ -12,13 +13,13 @@ const ShuffleHero = () => {
           Kaki Lima
         </h3>
         <p className="text-base md:text-lg text-slate-700 my-4 md:my-6">
-          Start your restaurant dreams today 
+            Start your restaurant dreams today
         </p>
         <button className="bg-indigo-500 text-white font-medium py-2 px-4 rounded transition-all hover:bg-indigo-600 active:scale-95">
           New User
         </button>
         <button className="bg-red-500 text-white font-medium py-2 px-4 rounded transition-all hover:bg-red-600 active:scale-95">
-          Start your restuarant
+          <a href="/homecooks">Start your restuarant</a>
         </button>
       </div>
       <ShuffleGrid />
