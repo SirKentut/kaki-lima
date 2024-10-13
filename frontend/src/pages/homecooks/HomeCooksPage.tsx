@@ -16,6 +16,11 @@ const HomeCooksPage: React.FC = () => {
     <p className="text-lg mt-4">This is a test to see if Tailwind is affecting the components.</p>
     <Input type="text" placeholder='Text'/>
     <div>
+      <button>
+        <a href="/homecooks/menu">Go to menu</a>
+      </button>
+    </div>
+    <div>
       <p className="text-lg mt-4">FAQ</p>
       <Accordion type="single" collapsible>
         <AccordionItem value='item-1'>
