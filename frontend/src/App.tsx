@@ -5,7 +5,6 @@ import NewUserPage from './pages/users/NewUserPage';
 import UserExplorePage from './pages/users/UserExplorePage';
 import HomeCooksMenu from './pages/homecooks/HomeCooksMenu';
 import { Checkbox } from 'components/ui/checkbox';
-import { UserNav} from 'components/ui/UserNav';
 import { User } from 'lucide-react';
 
 
@@ -14,7 +13,6 @@ function App() {
   return (
     <Router>
         {/* Routes */}
-        <UserNav />
         <Routes>
           <Route path="/homecooks" element={<HomeCooksPage />} />
           <Route path="/homecooks/menu" element={<HomeCooksMenu />} />

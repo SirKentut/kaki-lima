@@ -1,5 +1,5 @@
 import React from 'react';
-import chefMenu from 'components/ui/chefMenu';
+import chefMenu from 'components/ui/homecooks/chefMenu';
 
 const HomeCooksMenu: React.FC = () => {
     return (
