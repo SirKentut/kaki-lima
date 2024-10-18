@@ -4,7 +4,7 @@ import HomeCooksPage from './pages/homecooks/HomeCooksPage';
 import NewUserPage from './pages/users/NewUserPage';
 import UserExplorePage from './pages/users/UserExplorePage';
 import HomeCooksMenu from './pages/homecooks/HomeCooksMenu';
-import { Checkbox } from 'components/ui/checkbox';
+import { Checkbox } from '@components/ui/checkbox';
 import { User } from 'lucide-react';
 
 

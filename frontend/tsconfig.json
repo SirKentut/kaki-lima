@@ -3,7 +3,6 @@
     "baseUrl": "src",
     "paths": {
       "@*": ["*"],
-      "@lib/*": ["lib/*"],
     },
     "target": "es5",
     "lib": [

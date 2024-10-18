@@ -10,7 +10,7 @@ import{
     NavigationMenuIndicator,
     NavigationMenuViewport,
     ListItem}
-    from 'components/ui/NavigationMenu';
+    from '@components/ui/NavigationMenu';
 
 
 
