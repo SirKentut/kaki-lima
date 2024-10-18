@@ -39,5 +39,5 @@ func createUser(w http.ResponseWriter, r *http.Request) {
 }
 
 func homePage(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprint(w, "Hello, World!")
+	fmt.Fprint(w, "Test, seeing if go server works")
 }
