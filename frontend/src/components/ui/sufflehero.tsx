@@ -16,7 +16,7 @@ const ShuffleHero = () => {
             Start your restaurant dreams today
         </p>
         <button className="bg-indigo-500 text-white font-medium py-2 px-4 rounded transition-all hover:bg-indigo-600 active:scale-95">
-          New User
+          <a href="/explore">New User</a>
         </button>
         <button className="bg-red-500 text-white font-medium py-2 px-4 rounded transition-all hover:bg-red-600 active:scale-95">
           <a href="/homecooks">Start your restuarant</a>
