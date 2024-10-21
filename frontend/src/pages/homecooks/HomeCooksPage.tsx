@@ -26,6 +26,9 @@ const HomeCooksPage: React.FC = () => {
         <AccordionItem value='item-1'>
           <AccordionTrigger>How can I get my store recognized</AccordionTrigger>
         </AccordionItem>
+        <AccordionItem value='item-2'>
+          <AccordionTrigger>Licensing and Onboarding</AccordionTrigger>
+        </AccordionItem>
       </Accordion>
     </div>
     <div>
